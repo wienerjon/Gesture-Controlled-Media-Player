@@ -8,6 +8,7 @@ INSTRICTIONS TO RUN PROGRAM:
 3. Run the command 'python3 main.py'
 4. You should then be prompted to enter which media player you are using and the color range of your hand. 
 The default is a blue glove which is what I used for testing.
+5. You can quit the program by clicking '~'
 
 NOTES:
 1. The media player commands will only work for iOS
